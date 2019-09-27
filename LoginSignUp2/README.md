@@ -1,1 +1,1 @@
-login amd register form for the "Obmenyashka" site
+login and register form for the "Obmenyashka" site
